@@ -32,16 +32,9 @@ Operates with absolute conviction: if a system cannot defend its memory footprin
 
 ## 🛠️ Technical Arsenal
 
-```
-Architectural Scope: Bare-Metal Systems · Native OS Daemons · Concurrency Runtimes · Kinetic Graphics
-```
-
 <br/>
 
-### 01 / Low-Level Systems, Compilers & Bare-Metal Kernels
-```
-Core Competencies: Memory Hierarchy Control · Pointer Arithmetic · Zero-Cost Abstractions · POSIX Compliance
-```
+### 01 / Low-Level Systems & Core Runtimes
 
 <div align="center">
 
@@ -49,43 +42,23 @@ Core Competencies: Memory Hierarchy Control · Pointer Arithmetic · Zero-Cost A
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="34" alt="C++" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="34" alt="C#" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="34" alt="Rust" />
-<img src="https://img.shields.io/badge/Linux_Kernel_/_POSIX-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="34" alt="Linux" />
-<img src="https://img.shields.io/badge/Bash_/_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="Bash" />
-
-</div>
-
-- **Direct Memory & Cache Line Control**: Struct padding, stack vs heap allocation optimization, memory-mapped I/O (`mmap`), and zero-overhead data transformations.
-- **Safety & RAII Paradigms**: Strict lifetime modeling and borrow semantics in Rust; custom memory arenas, smart pointers, and deterministic destructors in C++.
-- **Low-Level IPC & Signals**: Inter-process communication via Unix domain sockets, shared memory buffers, signal handling, and POSIX process control.
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="34" alt="Dart" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="34" alt="TypeScript" />
 
 <br/>
 
-### 02 / High-Throughput Runtimes & Concurrency Engines
-```
-Core Competencies: Multi-Isolate Concurrency · Non-Blocking Event Loops · Type-Level Meta-Programming
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="34" alt="Dart" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="34" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="34" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="34" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="34" alt="Node.js" />
-<img src="https://img.shields.io/badge/V8_Internals-4B8BF5?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="V8 Engine" />
+<img src="https://img.shields.io/badge/V8_Engine-4B8BF5?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="V8 Engine" />
+<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="34" alt="Linux Kernel" />
+<img src="https://img.shields.io/badge/POSIX_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="POSIX Shell" />
 
 </div>
 
-- **Isolate Concurrency (Dart/Flutter)**: Multi-threaded isolate workers communicating over zero-copy memory ports, preventing UI thread lockup under heavy telemetry parsing.
-- **Strict Sound Type Architectures (TypeScript)**: Discriminated unions, recursive conditional types, template literal validation, and zero-runtime type enforcement.
-- **High-Velocity Async Pipelines (Python/Node)**: Non-blocking asynchronous I/O (`asyncio`, event-driven stream piping), subprocess trees, and high-throughput data transformers.
-
 <br/>
 
-### 03 / Native Mobile OS Internals & Hardware Hooks
-```
-Core Competencies: Android Daemon Engineering · Accessibility Services · Frame Pacing · JNI / Platform Channels
-```
+### 02 / Native Mobile Engines & Hardware Hooks
 
 <div align="center">
 
@@ -98,16 +71,9 @@ Core Competencies: Android Daemon Engineering · Accessibility Services · Frame
 
 </div>
 
-- **Kernel-Level Android Daemon Hooks**: Deep Android Accessibility Services hooking runtime package transitions, foreground app intercepts, and hardware button triggers.
-- **Un-killable Background Services**: Sticky foreground services, persistent isolates, OEM battery optimization bypasses, and reboot-persistent broadcast receivers.
-- **Rendering & Frame Pacing**: Direct canvas control via custom `RenderObjects`, sub-16ms layout passes, and zero-jank frame scheduling on 60Hz/120Hz displays.
-
 <br/>
 
-### 04 / Reactive Web Runtimes & Kinetic UI Physics
-```
-Core Competencies: Concurrent Mode Schedulers · Sub-Pixel GSAP Pipelines · Inertial Kinetic Models · Design Tokens
-```
+### 03 / Reactive Web Runtimes & Kinetic UI Physics
 
 <div align="center">
 
@@ -121,22 +87,16 @@ Core Competencies: Concurrent Mode Schedulers · Sub-Pixel GSAP Pipelines · Ine
 <br/>
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="34" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/HTML5_%2F_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="34" alt="HTML5/CSS3" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="34" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="34" alt="CSS3" />
 <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="34" alt="Canvas API" />
-<img src="https://img.shields.io/badge/Vanilla_Design_Tokens-F97316?style=for-the-badge&logo=csswizardry&logoColor=white" height="34" alt="Tokens" />
+<img src="https://img.shields.io/badge/Design_Tokens-F97316?style=for-the-badge&logo=csswizardry&logoColor=white" height="34" alt="Tokens" />
 
 </div>
 
-- **React 19 Concurrent Reconciliation**: Fine-grained state decoupling, React Server Components (RSC), asynchronous action boundaries, and zero client-bundle bloat.
-- **Kinetic Spring Physics & Inertia**: Sub-pixel GSAP ScrollTrigger timelines, Lenis inertial scroll damping, shared element transitions (`layoutId`), and reactive magnetic cursors.
-- **Zero-Dependency Styling Architectures**: Obsidian dark design tokens (`#030712`), composite-layer GPU acceleration (`will-change`), and sub-millisecond DOM repaints.
-
 <br/>
 
-### 05 / Cloud Infrastructure, Data Fabric & Toolchains
-```
-Core Competencies: Real-Time Event Streams · Offline-First Caching · Cloud IAM Boundary Defense · Surgical Git Flow
-```
+### 04 / Cloud Infrastructure, Data Fabric & Toolchains
 
 <div align="center">
 
@@ -145,13 +105,9 @@ Core Competencies: Real-Time Event Streams · Offline-First Caching · Cloud IAM
 <img src="https://img.shields.io/badge/Cloud_Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=black" height="34" alt="Firestore" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="34" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="34" alt="Git" />
-<img src="https://img.shields.io/badge/Linux_Daemons-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="34" alt="systemd" />
+<img src="https://img.shields.io/badge/systemd_Daemons-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="34" alt="systemd" />
 
 </div>
-
-- **Real-Time Data Streaming**: Cloud Firestore bi-directional snapshot streams, atomic multi-document transactions, composite indexing, and offline LRU disk cache persistence.
-- **Cloud Governance & Security**: Strict IAM service account least-privilege policies, secret management, and serverless edge functions.
-- **Disciplined Version Control**: Surgical branch isolation, interactive rebasing, regression bisecting, and clean trunk-based delivery pipelines.
 
 ---
 
