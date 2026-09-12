@@ -29,56 +29,103 @@ Focused on eliminating bloat, engineering microsecond-responsive UI physics, and
 
 ## 🛠️ Technical Arsenal
 
+```
+System Architecture: Dual-Layer Client/Native Engine · Event-Driven Cloud Fabric · Low-Overhead Runtimes
+```
+
 <br/>
 
 ### 01 / Languages & Core Runtimes
 
-```
-Runtime Environment: Native Android JVM/NDK · Node.js · Browser V8 Engine · Python Virtualenvs
-```
+<div align="center">
 
-| Technology | Core Specialization & Engineering Depth |
-| :--- | :--- |
-| **TypeScript** | Strict type-safety, contract-driven APIs, modular domain architectures, and reactive frontends. |
-| **JavaScript (ES6+)** | Zero-dependency DOM orchestration, asynchronous event loops, Web APIs, and high-framerate rendering. |
-| **Dart** | Asynchronous streams, isolate memory concurrency, typed reactive models, and cross-platform native builds. |
-| **Python** | Automation scripting, data parsers, OS-level utilities, and AI agent tool integrations. |
-| **HTML5** | Strict semantic hierarchies, accessibility landmarks, SEO metadata architectures, and media pipelines. |
-| **CSS3** | Hardware-accelerated transitions, custom property tokens, glassmorphism layers, and responsive layouts without bloated utility libraries. |
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<br/>
+
+| Technology | Architecture & Runtime Specialization | Concrete Capabilities |
+| :--- | :--- | :--- |
+| **JavaScript** | **V8 Event Loop & Async Mechanics** | Microtask/macrotask scheduling, `ArrayBuffer` & typed memory views, zero-dependency DOM orchestration, Web Workers concurrency, and cross-browser performance profiling. |
+| **TypeScript** | **Type-Safe Domain Modeling** | Strict null checking, discriminated unions, recursive conditional types, template literal types, AST manipulation, and contract-driven API interfaces. |
+| **Dart** | **AOT Compilation & Isolate Concurrency** | True multi-isolate worker pipelines, asynchronous stream transformers, typed reactive models, memory allocation profiling, and direct C/Java platform channel interop. |
+| **Python** | **Automation, Parsers & Toolcraft** | Asynchronous I/O pipelines (`asyncio`), system-level process orchestration, high-velocity JSON/binary data ingestion, and autonomous agent tool loops. |
+| **HTML5** | **Semantic Hierarchy & DOM Engine** | Strict semantic hierarchies, hardware-accelerated canvas contexts, Web Component standards, accessibility landmarks, and high-density media streaming pipelines. |
+| **CSS3** | **Kinetic Design Tokens & Composite Layers** | Custom property architectures (CSS Tokens), composite-layer acceleration (`will-change`, GPU transforms), sub-pixel cubic-bezier transitions, glassmorphism filters, and CSS Grid layout algorithms. |
 
 <br/>
 
 ### 02 / Frameworks & UI Architecture
 
-```
-Interface Principles: 60-120 FPS Framerates · Inertial Physics · Obsidian Dark Palette · Haptic Depth
-```
+<div align="center">
 
-| Framework / Engine | Production Implementation |
-| :--- | :--- |
-| **Flutter** | Native Android execution, custom painter engines, provider state trees, and complex multi-isolate app lifecycles. |
-| **React 19** | Server actions, concurrent rendering primitives, clean component decomposition, and modern hook paradigms. |
-| **Next.js** | Server-side rendering, API route handlers, optimized bundle splitting, and edge caching pipelines. |
-| **Vite** | Instant HMR development cycles, roll-up production tree shaking, and zero-latency build pipelines. |
-| **Framer Motion** | Spring physics transitions, layout layoutId morphs, dynamic gestures, and scroll-linked timeline choreography. |
-| **GSAP** | Sub-pixel kinetic sequencing, smooth inertial scrolling hooks (Lenis), and timeline-driven typography animations. |
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+</div>
 
 <br/>
 
-### 03 / Infrastructure, Data & Toolchains
+| Framework / Engine | Rendering Pipeline | Engineering Mastery |
+| :--- | :--- | :--- |
+| **Flutter** | **Impeller / Skia Native Canvas** | Custom `RenderObject` painting, 60–120 FPS frame pacing, complex Provider state trees, platform method channels (Android/Java), and Android foreground/background execution loops. |
+| **React 19** | **Concurrent Reconciliation Engine** | React Server Components (RSC), async transitions (`useTransition`), server actions (`useActionState`), compiler optimizations, and fine-grained state decoupling. |
+| **Next.js** | **Hybrid Edge & SSR Architecture** | Server-side rendering (SSR), incremental static regeneration (ISR), edge middleware interceptors, dynamic route segment splits, and minimal client bundle overhead. |
+| **Vite** | **Native ESM Build Pipeline** | Instant Hot Module Replacement (HMR) via browser-native ES imports, Rollup code-splitting configurations, custom plugin development, and optimized production trees. |
+| **Framer Motion** | **Spring-Driven Kinetic Physics** | Dynamic spring simulations, shared element layout transitions (`layoutId`), gesture tracking, drag bounds, and scroll-linked timeline choreography. |
+| **GSAP** | **Sub-Pixel High-Framerate Animation** | ScrollTrigger multi-stage timelines, Lenis inertial smooth-scroll orchestration, SVG path morphs, split-text typography reveals, and magnetic cursor physics. |
+
+<br/>
+
+### 03 / Infrastructure, Data & Tools
+
+<div align="center">
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br/>
+
+| Tool / Platform | Operational Domain | Practical Implementation |
+| :--- | :--- | :--- |
+| **Firebase** | **Cloud Real-Time Data Plane** | Firestore real-time snapshot streams, offline persistence caches with LRU eviction, atomic transactions, batch writes, and granular security rules. |
+| **Google Cloud** | **Infrastructure & Identity Governance** | Cloud IAM boundary enforcement, service account credential segregation, serverless compute functions, and encrypted cloud storage buckets. |
+| **Git** | **Distributed Version Control** | Surgical atomic commit discipline, interactive branch rebases, submodule coordination, bisect regression isolation, and strict trunk-based remote workflows. |
+| **Android Studio** | **Native OS Development & Diagnostics** | Android Accessibility Service configuration, ProGuard / R8 code shrinking and obfuscation, ADB logcat debugging, APK bundle inspection, and permission manifests. |
+| **Node.js** | **Server Runtimes & Tooling Infrastructure** | Stream piping, non-blocking asynchronous event processing, buffer allocation, child process IPC management, and local developer tool chains. |
+| **Linux** | **System Administration & Environments** | POSIX shell scripting, systemd background daemon lifecycle management, process signal trapping, directory access permissions, and containerized headless environments. |
+
+<br/>
+
+### 04 / Architectural Execution Matrix
 
 ```
-Operational Stack: Linux Shells · Cloud Document Stores · Native Android Debugging · Git Pipelines
+Performance Targets: <16ms Frame Budget (60 FPS) · <8ms Frame Budget (120 FPS) · Sub-100ms API Latency
 ```
 
-| Tool / Service | Production Implementation |
-| :--- | :--- |
-| **Firebase** | Cloud Firestore real-time snapshot listeners, security rule architectures, authentication pipelines, and offline persistence. |
-| **Google Cloud** | Cloud infrastructure configuration, IAM boundary policies, telemetry monitoring, and serverless compute. |
-| **Android Studio** | Deep manifest permissions, ProGuard optimization, ADB logcat debugging, and native service configurations. |
-| **Node.js** | Backend orchestration, package management, build scripting, and local mock testing servers. |
-| **Linux** | Shell scripting, headless server maintenance, file system permissions, and environment containerization. |
-| **Git** | Surgical commit hygiene, branch isolation, submodule maintenance, and remote CI/CD workflows. |
+| Layer | Primary Tech | Latency Target | Concurrency Model | Architectural Invariant |
+| :--- | :--- | :--- | :--- | :--- |
+| **Mobile Core** | Flutter · Dart | `<16ms` (Native Frame) | Isolate Concurrency & Method Channels | Zero UI-thread blocking; heavy computation delegated to background workers. |
+| **Web Frontend** | React 19 · Vite · CSS3 | `<10ms` (DOM Update) | Concurrent Scheduler & Transitions | Pure vanilla styling; zero CSS-in-JS runtime overhead; instantaneous paint. |
+| **Motion Layer** | GSAP · Framer Motion | `<8ms` (120Hz Display) | GPU Hardware-Accelerated Compositing | Spring physics and sub-pixel kinetics; smooth inertial scrolling (Lenis). |
+| **Data Synchronization**| Firebase · Node.js | `<150ms` (Cloud Sync) | Asynchronous Event Streams & Caching | Offline-first optimistic updates; bi-directional real-time snapshot listeners. |
+| **System Daemon** | Linux · Android OS | Persistent / Background | Background Workers & POSIX Signals | Persistent OS hooks that survive battery cleaners and memory compaction. |
 
 ---
 
