@@ -1,32 +1,28 @@
 <div align="center">
 
-<!-- Kinetic Wave Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=030712&height=190&section=header&text=SYSTEMS%20ARCHITECT&fontSize=42&fontColor=F97316&fontAlignY=38&desc=Native%20Mobile%20Internals%20%C2%B7%20Kinetic%20Interfaces%20%C2%B7%20Distributed%20Runtimes&descFontSize=15&descColor=94A3B8&descAlignY=62" width="100%" alt="Header" />
-
-<!-- Dynamic Live Typewriter Interaction -->
+<!-- Responsive Dynamic Typing Header -->
 <a href="https://github.com/prishatsharmaa8">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=F97316&center=true&vCenter=true&multiline=true&width=650&height=75&lines=FULL-STACK+SYSTEMS+ARCHITECT;NATIVE+MOBILE+INTERNALS+%E2%80%A2+FLUTTER+%26+ANDROID;KINETIC+INTERFACES+%E2%80%A2+REACT+19+%26+NEXT.JS;ZERO+FLUFF+%E2%80%A2+MAXIMUM+VELOCITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=550&height=60&lines=SYSTEMS+ARCHITECT+%C2%B7+CORE+ENGINEER;BARE-METAL+C%2FC%2B%2B+%E2%80%A2+RUST+%E2%80%A2+NATIVE+KERNELS;LOW-LATENCY+RUNTIMES+%E2%80%A2+FLUTTER+%26+REACT+19;ZERO+FLUFF+%E2%80%A2+MAXIMUM+VELOCITY" alt="Typing Header" />
 </a>
 
 <br/>
 
-<!-- System Telemetry Status Badges -->
+<!-- Authority Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Internals%20%7C%20Web%20Runtimes%20%7C%20Sovereign%20AI-030712?style=for-the-badge&logo=codeforces&logoColor=F97316&labelColor=030712" alt="Focus" />
+  <img src="https://img.shields.io/badge/Architecture-Systems%20%7C%20Distributed%20%7C%20Native%20OS-030712?style=for-the-badge&logo=codeforces&logoColor=F97316&labelColor=030712" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Discipline-Zero%20Overhead%20%7C%20Production%20Grade-030712?style=for-the-badge&logo=shield&logoColor=10B981&labelColor=030712" alt="Discipline" />
   <img src="https://img.shields.io/badge/Aesthetic-Obsidian%20Dark%20%7C%20Tactile%20Kinetic-030712?style=for-the-badge&logo=sparkles&logoColor=F97316&labelColor=030712" alt="Aesthetic" />
-  <img src="https://img.shields.io/badge/Standard-Zero%20Fluff%20%7C%20Production%20Grade-030712?style=for-the-badge&logo=target&logoColor=10B981&labelColor=030712" alt="Standard" />
-  <img src="https://img.shields.io/badge/Status-Active%20Engineering-030712?style=for-the-badge&logo=activity&logoColor=38BDF8&labelColor=030712" alt="Status" />
 </p>
 
 ---
 
 </div>
 
-## ⚡ Technical Profile
+## ⚡ Executive Directive
 
-Autonomous software architect and systems engineer operating at the convergence of **native mobile operating system internals**, **high-performance web runtimes**, and **autonomous agentic workflows**. 
+Full-stack systems architect operating with uncompromising technical discipline across the entire vertical stack—from **low-level systems programming in C, C++, and Rust**, to **native mobile operating system internals**, up to **kinetic, high-framerate web runtimes**.
 
-Focused on eliminating bloat, engineering microsecond-responsive UI physics, and building resilient software that operates reliably across Android hardware, cloud event pipelines, and modern browser engines.
+Rejects bloated abstractions in favor of mechanical sympathy, memory-efficient concurrency, sub-millisecond execution loops, and autonomous systems that perform under strict production constraints.
 
 ---
 
@@ -34,67 +30,66 @@ Focused on eliminating bloat, engineering microsecond-responsive UI physics, and
 
 <br/>
 
-### 01 / Languages & Core Runtimes
+### 01 / Low-Level Systems & Core Runtimes
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="38" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="38" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="38" alt="Dart" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="38" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="38" alt="CSS3" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="34" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="34" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="34" alt="C#" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="34" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="34" alt="Python" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="34" alt="Dart" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="34" alt="Node.js" />
-<img src="https://img.shields.io/badge/V8_Engine-4B8BF5?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="V8 Engine" />
-<img src="https://img.shields.io/badge/Android_JVM-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="34" alt="Android JVM" />
-<img src="https://img.shields.io/badge/Bash_/_POSIX-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="Bash" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="34" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="34" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Linux%20Kernel%20%2F%20POSIX-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="34" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="Bash" />
 
 </div>
 
 <br/>
 
-### 02 / Frameworks & UI Architecture
+### 02 / Frameworks, Native Engines & UI Kinetics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="38" alt="Flutter" />
-<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="38" alt="React 19" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="38" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="38" alt="Vite" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="38" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="38" alt="GSAP" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="34" alt="Flutter" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="34" alt="React 19" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="34" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="34" alt="Vite" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="34" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="34" alt="GSAP" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/Android_NDK%2FSDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="34" alt="Android NDK/SDK" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="34" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Lenis_Smooth_Scroll-000000?style=for-the-badge&logo=affinitydesigner&logoColor=white" height="34" alt="Lenis" />
-<img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="34" alt="Canvas" />
-<img src="https://img.shields.io/badge/Vanilla_Tokens-F97316?style=for-the-badge&logo=csswizardry&logoColor=white" height="34" alt="Tokens" />
+<img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="34" alt="HTML5/CSS3" />
 
 </div>
 
 <br/>
 
-### 03 / Infrastructure, Data & Tools
+### 03 / Infrastructure, Cloud & Deep Toolchains
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="38" alt="Firebase" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="38" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="38" alt="Android Studio" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38" alt="Node.js" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="38" alt="Linux" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="34" alt="Firebase" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="34" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="34" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="34" alt="Git" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="34" alt="Android Studio" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="34" alt="Node.js" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Cloud_Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=black" height="34" alt="Cloud Firestore" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="34" alt="Docker" />
 <img src="https://img.shields.io/badge/Android_Accessibility_API-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="34" alt="Accessibility API" />
-<img src="https://img.shields.io/badge/ADB_Debugging-000000?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="ADB" />
+<img src="https://img.shields.io/badge/ADB_Diagnostics-000000?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="ADB" />
 
 </div>
 
@@ -124,7 +119,7 @@ Embodying an AI-first engineering paradigm: orchestrating terminal agents, multi
 
 ---
 
-## 📊 Activity & Telemetry
+## 📊 Telemetry & Contribution Activity
 
 <div align="center">
 
