@@ -1,19 +1,22 @@
 <div align="center">
 
-```
-   _____ __  ______ _____ _____ __  __ _____ 
-  / ____|\ \/ / ____|_   _/ ____|  \/  / ____|
- | (___   \  /| (___   | || (___ | \  / | (___ 
-  \___ \   \/  \___ \  | | \___ \| |\/| |\___ \
-  ____) |  /   ____) |_| |_ ____) | |  | |____) |
- |_____/  /_/ |_____/|_____|_____/|_|  |_|_____/ 
-```
+<!-- Kinetic Wave Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=030712&height=190&section=header&text=SYSTEMS%20ARCHITECT&fontSize=42&fontColor=F97316&fontAlignY=38&desc=Native%20Mobile%20Internals%20%C2%B7%20Kinetic%20Interfaces%20%C2%B7%20Distributed%20Runtimes&descFontSize=15&descColor=94A3B8&descAlignY=62" width="100%" alt="Header" />
 
-### *Full-Stack Systems Architect · Native Mobile Internals · Kinetic Interfaces*
+<!-- Dynamic Live Typewriter Interaction -->
+<a href="https://github.com/prishatsharmaa8">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=F97316&center=true&vCenter=true&multiline=true&width=650&height=75&lines=FULL-STACK+SYSTEMS+ARCHITECT;NATIVE+MOBILE+INTERNALS+%E2%80%A2+FLUTTER+%26+ANDROID;KINETIC+INTERFACES+%E2%80%A2+REACT+19+%26+NEXT.JS;ZERO+FLUFF+%E2%80%A2+MAXIMUM+VELOCITY" alt="Typing SVG" />
+</a>
 
-[![Focus](https://img.shields.io/badge/Focus-Mobile%20Internals%20%7C%20Web%20Runtimes%20%7C%20Sovereign%20AI-030712.svg?style=for-the-badge&logo=codeforces&logoColor=F97316)](#-engineering-philosophy)
-[![Aesthetic](https://img.shields.io/badge/Design-Obsidian%20Dark%20%7C%20Tactile%20Kinetic-F97316.svg?style=for-the-badge)](#-technical-arsenal)
-[![Standard](https://img.shields.io/badge/Architecture-Zero%20Fluff%20%7C%20Production%20Grade-10B981.svg?style=for-the-badge)](#-activity--telemetry)
+<br/>
+
+<!-- System Telemetry Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Internals%20%7C%20Web%20Runtimes%20%7C%20Sovereign%20AI-030712?style=for-the-badge&logo=codeforces&logoColor=F97316&labelColor=030712" alt="Focus" />
+  <img src="https://img.shields.io/badge/Aesthetic-Obsidian%20Dark%20%7C%20Tactile%20Kinetic-030712?style=for-the-badge&logo=sparkles&logoColor=F97316&labelColor=030712" alt="Aesthetic" />
+  <img src="https://img.shields.io/badge/Standard-Zero%20Fluff%20%7C%20Production%20Grade-030712?style=for-the-badge&logo=target&logoColor=10B981&labelColor=030712" alt="Standard" />
+  <img src="https://img.shields.io/badge/Status-Active%20Engineering-030712?style=for-the-badge&logo=activity&logoColor=38BDF8&labelColor=030712" alt="Status" />
+</p>
 
 ---
 
@@ -21,7 +24,7 @@
 
 ## ⚡ Technical Profile
 
-Systems builder and software engineer operating at the convergence of **native mobile operating system internals**, **high-performance web runtimes**, and **autonomous agentic workflows**. 
+Autonomous software architect and systems engineer operating at the convergence of **native mobile operating system internals**, **high-performance web runtimes**, and **autonomous agentic workflows**. 
 
 Focused on eliminating bloat, engineering microsecond-responsive UI physics, and building resilient software that operates reliably across Android hardware, cloud event pipelines, and modern browser engines.
 
@@ -29,35 +32,27 @@ Focused on eliminating bloat, engineering microsecond-responsive UI physics, and
 
 ## 🛠️ Technical Arsenal
 
-```
-System Architecture: Dual-Layer Client/Native Engine · Event-Driven Cloud Fabric · Low-Overhead Runtimes
-```
-
 <br/>
 
 ### 01 / Languages & Core Runtimes
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="38" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="38" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="38" alt="Dart" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="38" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="38" alt="CSS3" />
 
 <br/>
 
-| Technology | Architecture & Runtime Specialization | Concrete Capabilities |
-| :--- | :--- | :--- |
-| **JavaScript** | **V8 Event Loop & Async Mechanics** | Microtask/macrotask scheduling, `ArrayBuffer` & typed memory views, zero-dependency DOM orchestration, Web Workers concurrency, and cross-browser performance profiling. |
-| **TypeScript** | **Type-Safe Domain Modeling** | Strict null checking, discriminated unions, recursive conditional types, template literal types, AST manipulation, and contract-driven API interfaces. |
-| **Dart** | **AOT Compilation & Isolate Concurrency** | True multi-isolate worker pipelines, asynchronous stream transformers, typed reactive models, memory allocation profiling, and direct C/Java platform channel interop. |
-| **Python** | **Automation, Parsers & Toolcraft** | Asynchronous I/O pipelines (`asyncio`), system-level process orchestration, high-velocity JSON/binary data ingestion, and autonomous agent tool loops. |
-| **HTML5** | **Semantic Hierarchy & DOM Engine** | Strict semantic hierarchies, hardware-accelerated canvas contexts, Web Component standards, accessibility landmarks, and high-density media streaming pipelines. |
-| **CSS3** | **Kinetic Design Tokens & Composite Layers** | Custom property architectures (CSS Tokens), composite-layer acceleration (`will-change`, GPU transforms), sub-pixel cubic-bezier transitions, glassmorphism filters, and CSS Grid layout algorithms. |
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="34" alt="Node.js" />
+<img src="https://img.shields.io/badge/V8_Engine-4B8BF5?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="V8 Engine" />
+<img src="https://img.shields.io/badge/Android_JVM-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="34" alt="Android JVM" />
+<img src="https://img.shields.io/badge/Bash_/_POSIX-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="Bash" />
+
+</div>
 
 <br/>
 
@@ -65,25 +60,21 @@ System Architecture: Dual-Layer Client/Native Engine · Event-Driven Cloud Fabri
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-</div>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="38" alt="Flutter" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="38" alt="React 19" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="38" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="38" alt="Vite" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="38" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="38" alt="GSAP" />
 
 <br/>
 
-| Framework / Engine | Rendering Pipeline | Engineering Mastery |
-| :--- | :--- | :--- |
-| **Flutter** | **Impeller / Skia Native Canvas** | Custom `RenderObject` painting, 60–120 FPS frame pacing, complex Provider state trees, platform method channels (Android/Java), and Android foreground/background execution loops. |
-| **React 19** | **Concurrent Reconciliation Engine** | React Server Components (RSC), async transitions (`useTransition`), server actions (`useActionState`), compiler optimizations, and fine-grained state decoupling. |
-| **Next.js** | **Hybrid Edge & SSR Architecture** | Server-side rendering (SSR), incremental static regeneration (ISR), edge middleware interceptors, dynamic route segment splits, and minimal client bundle overhead. |
-| **Vite** | **Native ESM Build Pipeline** | Instant Hot Module Replacement (HMR) via browser-native ES imports, Rollup code-splitting configurations, custom plugin development, and optimized production trees. |
-| **Framer Motion** | **Spring-Driven Kinetic Physics** | Dynamic spring simulations, shared element layout transitions (`layoutId`), gesture tracking, drag bounds, and scroll-linked timeline choreography. |
-| **GSAP** | **Sub-Pixel High-Framerate Animation** | ScrollTrigger multi-stage timelines, Lenis inertial smooth-scroll orchestration, SVG path morphs, split-text typography reveals, and magnetic cursor physics. |
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="34" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Lenis_Smooth_Scroll-000000?style=for-the-badge&logo=affinitydesigner&logoColor=white" height="34" alt="Lenis" />
+<img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="34" alt="Canvas" />
+<img src="https://img.shields.io/badge/Vanilla_Tokens-F97316?style=for-the-badge&logo=csswizardry&logoColor=white" height="34" alt="Tokens" />
+
+</div>
 
 <br/>
 
@@ -91,41 +82,21 @@ System Architecture: Dual-Layer Client/Native Engine · Event-Driven Cloud Fabri
 
 <div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="38" alt="Firebase" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="38" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="38" alt="Android Studio" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38" alt="Node.js" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="38" alt="Linux" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloud_Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=black" height="34" alt="Cloud Firestore" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="34" alt="Docker" />
+<img src="https://img.shields.io/badge/Android_Accessibility_API-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="34" alt="Accessibility API" />
+<img src="https://img.shields.io/badge/ADB_Debugging-000000?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="ADB" />
 
 </div>
-
-<br/>
-
-| Tool / Platform | Operational Domain | Practical Implementation |
-| :--- | :--- | :--- |
-| **Firebase** | **Cloud Real-Time Data Plane** | Firestore real-time snapshot streams, offline persistence caches with LRU eviction, atomic transactions, batch writes, and granular security rules. |
-| **Google Cloud** | **Infrastructure & Identity Governance** | Cloud IAM boundary enforcement, service account credential segregation, serverless compute functions, and encrypted cloud storage buckets. |
-| **Git** | **Distributed Version Control** | Surgical atomic commit discipline, interactive branch rebases, submodule coordination, bisect regression isolation, and strict trunk-based remote workflows. |
-| **Android Studio** | **Native OS Development & Diagnostics** | Android Accessibility Service configuration, ProGuard / R8 code shrinking and obfuscation, ADB logcat debugging, APK bundle inspection, and permission manifests. |
-| **Node.js** | **Server Runtimes & Tooling Infrastructure** | Stream piping, non-blocking asynchronous event processing, buffer allocation, child process IPC management, and local developer tool chains. |
-| **Linux** | **System Administration & Environments** | POSIX shell scripting, systemd background daemon lifecycle management, process signal trapping, directory access permissions, and containerized headless environments. |
-
-<br/>
-
-### 04 / Architectural Execution Matrix
-
-```
-Performance Targets: <16ms Frame Budget (60 FPS) · <8ms Frame Budget (120 FPS) · Sub-100ms API Latency
-```
-
-| Layer | Primary Tech | Latency Target | Concurrency Model | Architectural Invariant |
-| :--- | :--- | :--- | :--- | :--- |
-| **Mobile Core** | Flutter · Dart | `<16ms` (Native Frame) | Isolate Concurrency & Method Channels | Zero UI-thread blocking; heavy computation delegated to background workers. |
-| **Web Frontend** | React 19 · Vite · CSS3 | `<10ms` (DOM Update) | Concurrent Scheduler & Transitions | Pure vanilla styling; zero CSS-in-JS runtime overhead; instantaneous paint. |
-| **Motion Layer** | GSAP · Framer Motion | `<8ms` (120Hz Display) | GPU Hardware-Accelerated Compositing | Spring physics and sub-pixel kinetics; smooth inertial scrolling (Lenis). |
-| **Data Synchronization**| Firebase · Node.js | `<150ms` (Cloud Sync) | Asynchronous Event Streams & Caching | Offline-first optimistic updates; bi-directional real-time snapshot listeners. |
-| **System Daemon** | Linux · Android OS | Persistent / Background | Background Workers & POSIX Signals | Persistent OS hooks that survive battery cleaners and memory compaction. |
 
 ---
 
