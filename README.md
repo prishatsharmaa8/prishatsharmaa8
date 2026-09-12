@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Responsive Dynamic Typing Header -->
+<!-- Precision-Fitted Dynamic Terminal Header (Zero Clipping, 100% Responsive) -->
 <a href="https://github.com/prishatsharmaa8">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=550&height=60&lines=SYSTEMS+ARCHITECT+%C2%B7+CORE+ENGINEER;BARE-METAL+C%2FC%2B%2B+%E2%80%A2+RUST+%E2%80%A2+NATIVE+KERNELS;LOW-LATENCY+RUNTIMES+%E2%80%A2+FLUTTER+%26+REACT+19;ZERO+FLUFF+%E2%80%A2+MAXIMUM+VELOCITY" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=1000&color=F97316&center=true&vCenter=true&width=680&height=55&lines=SYSTEMS+ARCHITECT+%2F%2F+CORE+ENGINEER;BARE-METAL+C%2FC%2B%2B+%C2%B7+RUST+%C2%B7+NATIVE+INTERNALS;LOW-LATENCY+RUNTIMES+%C2%B7+FLUTTER+%26+REACT+19;ZERO+FLUFF+%C2%B7+UNCOMPROMISING+VELOCITY" alt="Typing Header" />
 </a>
 
 <br/>
 
 <!-- Authority Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Systems%20%7C%20Distributed%20%7C%20Native%20OS-030712?style=for-the-badge&logo=codeforces&logoColor=F97316&labelColor=030712" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Discipline-Zero%20Overhead%20%7C%20Production%20Grade-030712?style=for-the-badge&logo=shield&logoColor=10B981&labelColor=030712" alt="Discipline" />
-  <img src="https://img.shields.io/badge/Aesthetic-Obsidian%20Dark%20%7C%20Tactile%20Kinetic-030712?style=for-the-badge&logo=sparkles&logoColor=F97316&labelColor=030712" alt="Aesthetic" />
+  <img src="https://img.shields.io/badge/ARCHITECT-SYSTEMS%20%7C%20DISTRIBUTED%20%7C%20LOW--LEVEL-030712?style=for-the-badge&logo=codeforces&logoColor=F97316&labelColor=030712" alt="Architect" />
+  <img src="https://img.shields.io/badge/DISCIPLINE-ZERO%20OVERHEAD%20%7C%20HARDENED-030712?style=for-the-badge&logo=shield&logoColor=10B981&labelColor=030712" alt="Discipline" />
+  <img src="https://img.shields.io/badge/DOCTRINE-MAXIMUM%20VELOCITY-030712?style=for-the-badge&logo=zap&logoColor=F97316&labelColor=030712" alt="Doctrine" />
 </p>
 
 ---
@@ -95,31 +95,31 @@ Rejects bloated abstractions in favor of mechanical sympathy, memory-efficient c
 
 ---
 
-## 🏛️ Engineering Philosophy
+## 🏛️ Engineering Doctrine & Invariants
 
-### 1. Zero Fluff, Maximum Velocity
-> *Build systems that solve concrete, mission-critical problems with pristine architecture and zero unnecessary runtime overhead.*
+### 01 / Brutal Elimination of Bloat (Zero Fluff, Uncompromising Velocity)
+> *"Abstractions are debts paid in latency, memory overhead, and cognitive fatigue. If a dependency does not directly accelerate execution, eradicate it."*
 
-Code exists to solve problems, not to satisfy arbitrary complexity. Every dependency introduced into a codebase must justify its byte count and maintenance burden. Clean, deliberate architectures beat bloated abstractions every single time.
+We reject modern software decadence: bloated runtimes for trivial state, heavy virtual DOM trees where native primitives belong, and five layers of indirection to wrap a basic syscall or network stream. Every line of code, memory allocation, and package import must justify its existence at compile time. Minimal footprint. Deterministic execution. Surgical velocity.
 
-### 2. Obsidian Dark & Tactile UI
-> *Interfaces should feel responsive, alive, and executive-tier. Every micro-interaction, tactile response, and font choice matters.*
+### 02 / Obsidian Dark & Tactile Physics (The Executive Aesthetic)
+> *"Software is not merely functional—it is an instrument of command. It should look, feel, and react with lethal precision."*
 
-Digital products should command respect at first glance. Leveraging obsidian dark backdrops (`#030712`), warm ember highlights (`#F97316`), curated typography, and spring-based kinetic physics, applications are engineered to feel like premium instruments rather than generic web portals.
+Consumer and enterprise interfaces should command instantaneous psychological respect. We engineer exclusively in obsidian dark surfaces (`#030712`), razor-sharp ember accents (`#F97316`), and sub-pixel kinetic physics. Every gesture maps to a physical spring model. Every frame must hit its 8ms/16ms deadline without a microsecond of dropped pacing or stutter.
 
-### 3. Deep Operating System Integration
-> *Pushing beyond standard web wrappers into native Android accessibility hooks, kernel-level usage statistics, and isolate background services.*
+### 03 / Kernel-Level Tyranny (Deep OS & Hardware Sovereignty)
+> *"Web wrappers are toys. Real power executes directly against the metal, kernel signals, and OS-level system calls."*
 
-True mobile power lies beneath the UI layer. Integrating directly with Android Accessibility Services for real-time foreground package interception, configuring persistent background worker isolates that survive OEM battery cleaners, and harvesting kernel-level hardware telemetry to deliver capabilities standard apps cannot achieve.
+We do not build sandboxed toys. We penetrate deep into platform internals—hooking Android Accessibility Services for runtime package interception, spawning isolated C/Dart background workers that outlive aggressive OEM task killers, and extracting kernel-level hardware telemetry. If the platform allows it, we control it; if it restricts it, we engineer around it.
 
-### 4. Sovereign AI Synergy
-> *Pairing human design conviction with high-agency AI agent frameworks to accelerate deployment cycles from weeks to hours.*
+### 04 / Sovereign Autonomous Synergy (AI-Augmented Force Multiplier)
+> *"One architect commanding an autonomous agent legion out-builds a fifty-person legacy engineering department."*
 
-Embodying an AI-first engineering paradigm: orchestrating terminal agents, multi-agent tool loops, and automated code generation harnesses with human technical discernment. Rapidly translating product intuition into compiled production software at an unprecedented pace.
+We operate as a single-node sovereign intelligence unit. By fusing razor-sharp system architecture conviction with high-agency autonomous AI agent loops, the traditional weeks-long sprint cycles collapse into single-session deployments. We do not write repetitive boilerplate—we architect the invariants, orchestrate the agents, and compile production systems at terminal velocity.
 
 ---
 
-## 📊 Telemetry & Contribution Activity
+## 📊 Telemetry & Activity
 
 <div align="center">
 
