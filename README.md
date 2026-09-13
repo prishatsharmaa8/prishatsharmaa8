@@ -135,15 +135,16 @@ We operate as a single-node sovereign intelligence unit. By fusing razor-sharp s
 
 ---
 
-## 📊 Telemetry & Activity
+## 📡 Systems Telemetry & Operational State
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prishatsharmaa8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=F97316&icon_color=F97316&text_color=94A3B8" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prishatsharmaa8&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=F97316&text_color=94A3B8" height="170" alt="Top Languages" />
+<!-- High-Precision Vector Telemetry Console (Zero 503s, 100% Uptime, Obsidian Dark) -->
+<img src="./telemetry.svg" width="100%" alt="Systems Telemetry Console" />
 
-<br/>
+<br/><br/>
 
+<!-- Real-Time Commit Streak Meter -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prishatsharmaa8&theme=tokyonight&hide_border=true&background=030712&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub Streak" />
 
 </div>

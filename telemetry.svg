@@ -1,0 +1,67 @@
+<svg width="850" height="270" viewBox="0 0 850 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="50%" stop-color="#F97316" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Main Chassis -->
+  <rect width="850" height="270" rx="14" fill="url(#cardGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  
+  <!-- Window Header -->
+  <rect x="1.5" y="1.5" width="847" height="40" rx="13" fill="#090D16"/>
+  <line x1="0" y1="41" x2="850" y2="41" stroke="#1E293B" stroke-width="1"/>
+  
+  <circle cx="24" cy="21" r="5" fill="#EF4444"/>
+  <circle cx="40" cy="21" r="5" fill="#F59E0B"/>
+  <circle cx="56" cy="21" r="5" fill="#10B981"/>
+  
+  <text x="80" y="25" fill="#94A3B8" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" letter-spacing="1.5">SOVEREIGN NODE // RUNTIME TELEMETRY CONSOLE</text>
+  
+  <!-- Online Pill -->
+  <rect x="725" y="11" width="100" height="20" rx="10" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-width="1"/>
+  <circle cx="738" cy="21" r="3.5" fill="#10B981" filter="url(#glow)"/>
+  <text x="748" y="25" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="bold" letter-spacing="1">OPERATIONAL</text>
+
+  <!-- Metric Tile 01: Low-Level Core -->
+  <rect x="24" y="58" width="185" height="82" rx="8" fill="#060911" stroke="#1E293B" stroke-width="1"/>
+  <text x="38" y="78" fill="#64748B" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="bold" letter-spacing="1">LOW-LEVEL CORE</text>
+  <text x="38" y="102" fill="#F97316" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">C / C++ · RUST</text>
+  <text x="38" y="122" fill="#94A3B8" font-family="'JetBrains Mono', monospace" font-size="10">POSIX / Linux Kernels</text>
+
+  <!-- Metric Tile 02: Frame Pacing -->
+  <rect x="225" y="58" width="185" height="82" rx="8" fill="#060911" stroke="#1E293B" stroke-width="1"/>
+  <text x="239" y="78" fill="#64748B" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="bold" letter-spacing="1">FRAME PACING</text>
+  <text x="239" y="102" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">&lt; 8.33ms</text>
+  <text x="239" y="122" fill="#94A3B8" font-family="'JetBrains Mono', monospace" font-size="10">120Hz Hardware Pacing</text>
+
+  <!-- Metric Tile 03: Native Mobile -->
+  <rect x="426" y="58" width="185" height="82" rx="8" fill="#060911" stroke="#1E293B" stroke-width="1"/>
+  <text x="440" y="78" fill="#64748B" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="bold" letter-spacing="1">MOBILE INTERNALS</text>
+  <text x="440" y="102" fill="#38BDF8" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">ACCESSIBILITY</text>
+  <text x="440" y="122" fill="#94A3B8" font-family="'JetBrains Mono', monospace" font-size="10">Android NDK / Isolates</text>
+
+  <!-- Metric Tile 04: UI Kinetics -->
+  <rect x="627" y="58" width="198" height="82" rx="8" fill="#060911" stroke="#1E293B" stroke-width="1"/>
+  <text x="641" y="78" fill="#64748B" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="bold" letter-spacing="1">KINETIC ENGINES</text>
+  <text x="641" y="102" fill="#F59E0B" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">REACT 19 · GSAP</text>
+  <text x="641" y="122" fill="#94A3B8" font-family="'JetBrains Mono', monospace" font-size="10">Lenis Physics / Spring</text>
+
+  <!-- Terminal Diagnostics Console -->
+  <rect x="24" y="156" width="801" height="94" rx="8" fill="#05080E" stroke="#1E293B" stroke-width="1"/>
+  
+  <text x="40" y="180" fill="#F97316" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold">&gt; sovereign-node --audit-invariants --strict</text>
+  <text x="40" y="203" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="11">✔ [MEMORY] Zero-leak arenas verified · RAII lifetimes bounded · GC pauses: 0.00ms</text>
+  <text x="40" y="226" fill="#94A3B8" font-family="'JetBrains Mono', monospace" font-size="11">✔ [KERNEL] Accessibility hooks attached · Persistent isolate daemons: SURVIVING OEM OPTIMIZERS</text>
+  <text x="40" y="242" fill="#64748B" font-family="'JetBrains Mono', monospace" font-size="10.5">✔ [DISCIPLINE] Runtime bloat: 0.00% · Dependencies: AUDITED · Execution velocity: MAXIMUM</text>
+</svg>
